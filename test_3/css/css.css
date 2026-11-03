@@ -1,4 +1,22 @@
-#maroc{
-	padding-left: 50%;
-	height: 200px;
+.redtext{
+	color: red;
+	text-align: center;
+}
+
+#first_text{
+	font-size: 30px;
+}
+
+#image1{
+	height: 150px;
+	padding-left: 47%;
+}
+
+#image2{
+	height: 150px;
+	padding-left: 47%;
+}
+
+.emblems{
+	display: inline-block;
 }
